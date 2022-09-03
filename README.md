@@ -1,1 +1,1 @@
-Please find the link here -> https://icy-pebble-069552110.1.azurestaticapps.net/about.html
+Please find the link here -> https://happy-moss-0435e9310.1.azurestaticapps.net
