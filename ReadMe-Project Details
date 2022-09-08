@@ -1,0 +1,13 @@
+Project Title:- Photogenic Photography
+
+Project Demo:- https://drive.google.com/file/d/1wKdCD1KwkZ5tHD9oDF9rLDOg1PPfLPNy/view?usp=sharing
+
+Deployement steps:-
+1) Developed code uploaded into github.
+2) In the microsoft azure platform a new resource is selected.
+3) A static web page is selected as a new resource.
+4) Github repository is linked and the website is hosted using microsoft azure.
+
+Project Description:-
+A website where users can get to know about a photo studio. 
+The web page is divided into multiple parts such as home, wherein the testimonials and reviews are present. Then the about section, contact and services sections.
